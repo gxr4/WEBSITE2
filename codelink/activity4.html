@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Activity 4</title>
+</head>
+<body style="background-color:forestgreen; font-family: Arial, sans-serif;">
+
+<div style="width:550px; margin:50px auto; background-color:white; padding:25px; border-radius:15px;">
+
+    <h1 style="text-align:center; color:forestgreen;">User Information Form</h1>
+
+    <form>
+        <table width="100%" cellpadding="8">
+
+            <tr>
+                <td style="color:forestgreen;"><label for="fname">First Name:</label></td>
+                <td><input type="text" id="fname" name="firstname" required
+                           style="width:100%; padding:5px; border:1px solid forestgreen; border-radius:5px;"></td>
+            </tr>
+
+            <tr>
+                <td style="color:forestgreen;"><label for="lname">Last Name:</label></td>
+                <td><input type="text" id="lname" name="lastname" required
+                           style="width:100%; padding:5px; border:1px solid forestgreen; border-radius:5px;"></td>
+            </tr>
+
+            <tr>
+                <td style="color:forestgreen;"><label for="age">Age:</label></td>
+                <td><input type="number" id="age" name="age" required
+                           style="width:100%; padding:5px; border:1px solid forestgreen; border-radius:5px;"></td>
+            </tr>
+
+            <tr>
+                <td style="color:forestgreen;">Gender:</td>
+                <td style="color:forestgreen;">
+                    <input type="radio" name="gender"> Male
+                    <input type="radio" name="gender"> Female
+                    <input type="radio" name="gender"> Other
+                </td>
+            </tr>
+
+            <tr>
+                <td style="color:forestgreen;">Hobbies:</td>
+                <td style="color:forestgreen;">
+                    <input type="checkbox"> Reading
+                    <input type="checkbox"> Traveling
+                    <input type="checkbox"> Gaming
+                    <input type="checkbox"> Cooking
+                    <input type="checkbox"> Sports
+                </td>
+            </tr>
+
+            <tr>
+                <td style="color:forestgreen;"><label for="year-level">Year Level:</label></td>
+                <td>
+                    <select id="year-level" style="width:100%; padding:5px; border:1px solid forestgreen; border-radius:5px;">
+                        <option>1st Year</option>
+                        <option>2nd Year</option>
+                        <option>3rd Year</option>
+                        <option>4th Year</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" align="center">
+                    <button type="submit"
+                            style="background-color:forestgreen; color:white; padding:8px 15px; border:none; border-radius:5px; cursor:pointer;">
+                        Submit
+                    </button>
+
+                    <button type="reset"
+                            style="background-color:white; color:forestgreen; padding:8px 15px; border:2px solid forestgreen; border-radius:5px; cursor:pointer;">
+                        Clear
+                    </button>
+                </td>
+            </tr>
+
+        </table>
+    </form>
+
+</div>
+
+</body>
+</html>
