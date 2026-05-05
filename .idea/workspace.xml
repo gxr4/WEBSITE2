@@ -5,55 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="760f651e-b59b-466f-b3a4-1f9724b827fd" name="Changes" comment="changed javascript">
-      <change afterPath="$PROJECT_DIR$/.idea/WEBSITE2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshot 2026-05-05 225842.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/.idea/Codee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Activity11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/Chess_Large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/P_20260430_144004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/Screenshot 2026-05-05 225842.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/carrera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/corvette.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/fordgt.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/fun1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/gt2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/lamborghini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1 (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/screen1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Image/tt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Untitled-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Untitled-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/Untitled-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/convert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/script1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/script11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/scripty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/stuff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/styles1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/tester.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/tester.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/activity3.html" beforeDir="false" afterPath="$PROJECT_DIR$/codelink/activity3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DJ70t5bRt0ovsz4N4xccdil9vl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -83,6 +35,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Untitled-3.html.executor": "Run",
+    "JavaScript Debug.activity3.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,6 +48,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Xinij/WebstormProjects/WEBSITE2",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -119,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777988100753</updated>
       <workItem from="1777988101759" duration="6737000" />
+      <workItem from="1778024621407" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="changed javascript">
       <option name="closed" value="true" />
@@ -128,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777995663287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed javascript">
+      <option name="closed" value="true" />
+      <created>1778024932290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778024932290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
