@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="760f651e-b59b-466f-b3a4-1f9724b827fd" name="Changes" comment="changed javascript">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,9 @@
     "accountId": "c95c23c1-29f8-449c-8db4-bbd75ce9dfc4"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -89,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777988100753</updated>
       <workItem from="1777988101759" duration="6737000" />
-      <workItem from="1778024621407" duration="5736000" />
+      <workItem from="1778024621407" duration="7299000" />
     </task>
     <task id="LOCAL-00001" summary="changed javascript">
       <option name="closed" value="true" />
