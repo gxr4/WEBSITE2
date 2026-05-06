@@ -110,18 +110,7 @@ h2 {
     align-items: start;
     margin-top: 16px;
 }
-/*.about-photo {
-    width: 100%;
-    aspect-ratio: 4/5;
-    background: #ddd;
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #777;
-    font-size: 0.85rem;
 
-}*/
 .about-text p {
     color: #777;
     margin-bottom: 16px;
