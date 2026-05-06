@@ -19,7 +19,6 @@
     return;
 }
 
-    // Opens the user's mail client pre-filled with the form data
     const mailto = `mailto:charles.montehermoso@cit.edu`
     + `?subject=${encodeURIComponent(subject || 'Portfolio Inquiry')}`
     + `&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`)}`;
