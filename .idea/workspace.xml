@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="760f651e-b59b-466f-b3a4-1f9724b827fd" name="Changes" comment="changed javascript">
-      <change beforePath="$PROJECT_DIR$/codelink/activity3.html" beforeDir="false" afterPath="$PROJECT_DIR$/codelink/activity3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot 2026-05-05 225842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/Activity11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/Image/screen1 (8).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/Untitled-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/Untitled-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/Untitled-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/codelink/activity11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/convert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/scripty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/stuff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/tester.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelink/tester.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +52,7 @@
     "JavaScript Debug.Untitled-3.html.executor": "Run",
     "JavaScript Debug.activity3.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.stuff.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -74,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777988100753</updated>
       <workItem from="1777988101759" duration="6737000" />
-      <workItem from="1778024621407" duration="556000" />
+      <workItem from="1778024621407" duration="2789000" />
     </task>
     <task id="LOCAL-00001" summary="changed javascript">
       <option name="closed" value="true" />
@@ -92,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778024932290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed javascript">
+      <option name="closed" value="true" />
+      <created>1778025186968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778025186968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

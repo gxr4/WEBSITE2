@@ -214,7 +214,7 @@ h2 {
 /* CONTACT */
 .contact-grid {
     display: grid;
-    grid-template-columns: 1fr 1.4fr;
+    grid-template-columns: 1fr 2fr;
     gap: 60px;
     margin-top: 12px;
 }
@@ -269,7 +269,7 @@ footer {
     color: #777;
 }
 
-/* RESPONSIVE */
+/* for mobile view and other sizes */
 @media (max-width: 768px) {
     nav { padding: 14px 24px; }
     nav ul { gap: 18px; }
@@ -290,3 +290,64 @@ footer {
     height: 400px;
     object-fit: cover;
 }
+
+/* CONTACT FORM */
+.contact-form-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.form-group label {
+    font-size: 0.78rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #2c4a3e;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #fff;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    color: #1a1a1a;
+    transition: border-color 0.2s;
+    outline: none;
+    resize: vertical;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: #2c4a3e;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+    color: #bbb;
+}
+
+.form-btn {
+    align-self: flex-start;
+    margin-top: 4px;
+    cursor: pointer;
+    border: none;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.form-status {
+    font-size: 0.85rem;
+    min-height: 20px;
+    color: #2c4a3e;
+}
+

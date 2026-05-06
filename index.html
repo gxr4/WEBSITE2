@@ -6,7 +6,7 @@
     <title>My Portfolio</title>
     <link rel="stylesheet" href="styles.css" />
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet"/>
-
+    <script src="index.js"></script>
 </head>
 <body>
 
@@ -188,7 +188,7 @@
 
         <div class="project-card">
             <div class="project-img">
-                <img src="codelink/Image/screen1%20(8).png" alt="Screenshot of Activity 1">
+                <img src="codelink/Image/screen1(9).png" alt="Screenshot of Activity 1">
             </div>
             <div class="project-info">
                 <span class="project-tag">HTML</span>
@@ -196,13 +196,14 @@
                 <span class="project-tag">JavaScript</span>
                 <h3>Looping Characters</h3>
                 <p>Functional interface for a JavaScript exercise focused on Looping Structures. It provides a user interface (UI) divided into three distinct sections, each representing a different type of loop: for, while, and do-while.</p>
-                <a href="codelink/Untitled-3.html" target="_blank" rel="noopener noreferrer">View Project →</a>
+                <a href="codelink/activity11.html" target="_blank" rel="noopener noreferrer">View Project →</a>
             </div>
         </div>
 
     </div>
 </section>
 
+<!-- CONTACT -->
 <!-- CONTACT -->
 <section id="contact">
     <div class="section-label">Contact</div>
@@ -229,17 +230,32 @@
                 </a>
             </div>
         </div>
-        <!-- Replace the src below with your own Google Maps embed URL -->
-        <div class="map-container">
-            <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2334.412896138303!2d123.84472691876952!3d10.261686681432769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1777994672112!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-                    allowfullscreen=""
-                    loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade">
-            </iframe>
+
+        <!-- CONTACT FORM -->
+        <div class="contact-form-wrapper">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" placeholder="Your full name" />
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="your@email.com" />
+            </div>
+            <div class="form-group">
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" placeholder="What's this about?" />
+            </div>
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea id="message" rows="5" placeholder="Write your message here..."></textarea>
+            </div>
+            <div id="form-status" class="form-status"></div>
+            <button class="btn form-btn" onclick="handleFormSubmit()">Send Message</button>
         </div>
     </div>
 </section>
+
+
 
 <!-- FOOTER -->
 <footer>
